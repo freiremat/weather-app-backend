@@ -28,8 +28,15 @@ python3 -m venv .venv
 ```
 
 **3. Ative o ambiente virtual**
+
+Mac/Linux:
 ```bash
 source .venv/bin/activate
+```
+
+Windows:
+```bash
+.venv\Scripts\activate
 ```
 
 **4. Instale as dependências**
